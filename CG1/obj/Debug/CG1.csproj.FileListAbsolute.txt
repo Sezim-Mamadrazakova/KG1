@@ -1,0 +1,11 @@
+C:\Users\Сезим\source\repos\CG1\CG1\bin\Debug\CG1.exe.config
+C:\Users\Сезим\source\repos\CG1\CG1\bin\Debug\CG1.exe
+C:\Users\Сезим\source\repos\CG1\CG1\bin\Debug\CG1.pdb
+C:\Users\Сезим\source\repos\CG1\CG1\obj\Debug\CG1.csproj.AssemblyReference.cache
+C:\Users\Сезим\source\repos\CG1\CG1\obj\Debug\CG1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сезим\source\repos\CG1\CG1\obj\Debug\CG1.Form1.resources
+C:\Users\Сезим\source\repos\CG1\CG1\obj\Debug\CG1.Properties.Resources.resources
+C:\Users\Сезим\source\repos\CG1\CG1\obj\Debug\CG1.csproj.GenerateResource.cache
+C:\Users\Сезим\source\repos\CG1\CG1\obj\Debug\CG1.csproj.CoreCompileInputs.cache
+C:\Users\Сезим\source\repos\CG1\CG1\obj\Debug\CG1.exe
+C:\Users\Сезим\source\repos\CG1\CG1\obj\Debug\CG1.pdb
